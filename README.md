@@ -1,5 +1,5 @@
 # yEnc #
-Golang yEnc decoder library
+Golang yEnc decoder library with multi core support
 
 ## Install ##
 ```bash
